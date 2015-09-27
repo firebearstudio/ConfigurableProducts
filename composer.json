@@ -1,5 +1,5 @@
 {
-    "name": "firebear/module-configurableproducts",
+    "name": "firebear/configurableproducts",
     "description": "N/A",
     "require": {
         "php": "~5.5.0|~5.6.0",
@@ -13,12 +13,4 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
-    "extra": {
-        "map": [
-            [
-                "*",
-                "Firebear/ConfigurableProducts"
-            ]
-        ]
-    }
 }
