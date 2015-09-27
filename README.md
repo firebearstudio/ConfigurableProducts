@@ -1,6 +1,6 @@
 #  Improved Configurable Product for Magento 2 
 
-Magento 2 version of our <a href="https://firebearstudio.com/blog/improved-configurable-product-innovative-way-to-work-with-configurable-products-in-magento.html" title="magento configurable product pre-select">ICP Extension for Magento 1</a> where we try improved behaviour of Magento configurable products. 
+Magento 2 version of our <a href="https://firebearstudio.com/blog/improved-configurable-product-innovative-way-to-work-with-configurable-products-in-magento.html" title="magento configurable product pre-select">ICP Extension for Magento 1</a> where we try improve behaviour of Magento configurable products. 
 
 Features 
 
