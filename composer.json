@@ -3,12 +3,12 @@
     "description": "Pre-selected configurable product options, change URL on the fly and other improvements",
     "require": {
         "php": "~5.5.0|~5.6.0",
-        "magento/module-catalog": "~1.0.0-beta",
-        "magento/framework": "~1.0.0-beta",
+        "magento/module-catalog": "100.0.*",
+        "magento/framework": "100.0.*",
         "magento/magento-composer-installer": "*"
     },
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "100.0.3",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
