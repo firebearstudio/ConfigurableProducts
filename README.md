@@ -1,5 +1,9 @@
 #  Improved Configurable Products for Magento 2 
 
+Free version is out of data and not supported temporariy, full version of extension works great with latest Magento 2 versions and also include our free support - https://firebearstudio.com/improved-configurable-products-for-magento-2.html 
+
+Demo - http://magento2demo.firebearstudio.com/ 
+
 This is a Magento 2 version of our <a href="https://firebearstudio.com/blog/improved-configurable-product-innovative-way-to-work-with-configurable-products-in-magento.html" title="magento configurable product pre-select">ICP Extension for Magento 1</a>, which improves the default behaviour of Magento configurable products. 
 
 Features 
