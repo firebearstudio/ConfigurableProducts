@@ -4,7 +4,8 @@
  * Copyright © 2015 Firebear Studio. All rights reserved.
  */
 -->
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <type name="Magento\Catalog\Helper\Product">
         <plugin name="firebear_show_configurable_product" type="Firebear\ConfigurableProducts\Plugin\Helper\Catalog\Product" />
     </type>
