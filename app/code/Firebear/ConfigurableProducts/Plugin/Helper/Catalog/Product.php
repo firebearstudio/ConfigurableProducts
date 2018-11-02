@@ -8,11 +8,11 @@ class Product
     protected $catalogSession;
 
     /**
-     * @param \Magento\ConfigurableProduct\Model\Resource\Product\Type\Configurable $catalogProductTypeConfigurable
+     * @param \Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable $catalogProductTypeConfigurable
      * @param \Magento\Catalog\Model\Session $catalogSession
      */
     public function __construct(
-        \Magento\ConfigurableProduct\Model\Resource\Product\Type\Configurable $catalogProductTypeConfigurable,
+        \Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable $catalogProductTypeConfigurable,
         \Magento\Catalog\Model\Session $catalogSession
     ) {
         $this->catalogProductTypeConfigurable = $catalogProductTypeConfigurable;
