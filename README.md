@@ -1,6 +1,6 @@
 #  Improved Configurable Products for Magento 2 
 
-Free version is out of data and not supported temporariy, full version of extension works great with latest Magento 2 versions and also include our free support - https://firebearstudio.com/improved-configurable-products-for-magento-2.html 
+Free version is out of date and not supported temporarily, full version of extension works great with latest Magento 2 versions and also include our free support - https://firebearstudio.com/improved-configurable-products-for-magento-2.html 
 
 Demo - http://magento2demo.firebearstudio.com/ 
 
